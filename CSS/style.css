@@ -1,0 +1,141 @@
+
+h1{
+margin-top: 10;
+font-size: 70px;
+font-family: 'WindSong', cursive;
+}
+
+h2{
+  font-family: 'Timmana', sans-serif;
+  font-size: 60px;
+}
+h3{
+  font-family: 'Timmana', sans-serif;
+  font-size: 40px;
+}
+
+p{
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  position: relative;
+  bottom:20px;
+  color: #3A3845;
+}
+html,body{
+  margin: 0 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  overflow-x:hidden;
+
+}
+
+.top-container{
+  background-color: #C5D8A4;
+  position: relative;
+  padding: 10%;
+}
+.middle-container{
+ background-color: #F4FCD9;
+ padding: 30px 0 70px;
+}
+.bottom-container{
+
+ padding: 80px 0 1px;
+ background-color: #525E75;
+ margin: 00px auto 00px auto;
+}
+.cloud{
+  width: 200px;
+  height:200px;
+}
+.pro{
+  text-decoration: underline;
+}
+.btm-cld{
+  position: absolute;
+  left: 200px;
+  bottom:700px;
+}
+.top-cld{
+  position: absolute;
+  top:50px;
+  right:200px;
+}
+.ctr-1{
+  position:relative;
+}
+.mountain{
+  width: 1500px;
+  height:650;
+  position:relative;
+  top:150px;
+  right:170px;
+}
+.skill-row{
+ width:50%;
+ margin: 100px auto 100px auto;
+ line-height: 2;
+}
+.profile{
+  margin-top: 100px;
+}
+hr{
+  width: 30%;
+  border-style: dotted;
+  size: 20px;
+  border-bottom: none;
+  color: #F7E9D7;
+  border-width: 15px;
+  margin: 100px auto ;
+}
+.ghost1{
+  position: absolute;
+  right: 00px;
+  top:2900px;
+
+}
+.ghost2{
+  position: absolute;
+  left: 00px;
+  top:2900px;
+
+}
+
+.btn {
+  text-decoration: none;
+  padding: 15px 25px;
+  font-size:24px;
+  font-family:Arial;
+  width:200px;
+  height:60px;
+  color:rgba(255, 255, 255, 1);
+  border-color:#566963;
+  border-top-left-radius:17px;
+  border-top-right-radius:17px;
+  border-bottom-left-radius:17px;
+  border-bottom-right-radius:17px;
+  box-shadow:inset 0px 0px 0px -50px rgba(84, 207, 192, 1);
+  text-shadow:inset 1px 22px 0px #2b665e;
+  background:linear-gradient(rgba(48, 206, 231, 1), rgba(40, 114, 114, 1));
+}
+
+.btn:hover {
+  background: linear-gradient(rgba(40, 114, 114, 1), rgba(48, 206, 231, 1));
+}
+a{
+  color: #8D8DAA;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+a:hover{
+  color: #FFFBE9;
+}
+.cpy{
+  margin: 50px auto;
+  font-size: 20px;
+  padding:20px 0;
+}
+.av{
+  color: #3A3845;
+}
